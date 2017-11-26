@@ -1,18 +1,16 @@
 # the-first-omnic-crisis
 Contains the functions within the "The First Omnic Crisis" adventure map (Minecraft).
 
-Entities:
-
-  Enemies:
+Enemies:
   
-    - Titan
-      - Fully modelled
-      - Fully functional, not satisfied with how it feels to fight though
-      - Sounds are completed
+  - Titan
+    - Fully modelled
+    - Fully functional, not satisfied with how it feels to fight though
+    - Sounds are completed
     
-    - Bastion
-      - Fully modelled
-      - Drop-pod sequence animation complete, needs sounds/damage
+  - Bastion
+    - Fully modelled
+    - Drop-pod sequence animation complete, needs sounds/damage
       
 Locations:
 
