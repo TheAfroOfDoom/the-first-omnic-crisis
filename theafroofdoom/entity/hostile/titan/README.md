@@ -3,7 +3,7 @@ Functions for the Titan custom enemy.
 
 Inspired by the massive [Titans](https://overwatch.gamepedia.com/Titan) shown in the *Overwatch* comics.
 
-### **.mcfunction**s:
+### *.mcfunction*s:
     - sort: Runs from 'theafroofdoom:entity/hostile/sort.mcfunction' off Titans.
   
     - sort-arm-right: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Right Arms.
