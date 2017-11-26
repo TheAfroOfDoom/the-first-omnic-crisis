@@ -1,27 +1,27 @@
 # the-first-omnic-crisis
 Contains the functions within the "The First Omnic Crisis" adventure map (Minecraft).
 
-Enemies:
+## Enemies
   
-  - Titan
+### Titan
     - Fully modelled
     - Fully functional, not satisfied with how it feels to fight though
     - Sounds are completed
     
-  - Bastion
+### Bastion
     - Fully modelled
     - Drop-pod sequence animation complete, needs sounds/damage
       
-Locations:
+## Locations
 
-  - Hanamura
+### Hanamura
     - 70% complete
     
-  - Volskaya Industries
+### Volskaya Industries
     - 80% complete
     
-  - Anubis data center
+### Anubis data center
     - 10% complete
     
-  - Sydney, Australia
+### Sydney, Australia
     - 30% complete
