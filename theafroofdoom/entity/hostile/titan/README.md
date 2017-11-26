@@ -26,5 +26,5 @@ Inspired by the massive [Titans](https://overwatch.gamepedia.com/Titan) shown in
 ## ai
 Functions that dictate Titan AI.
 
-  -- Vision/Movement
-  -- Attacks
+  - Vision/Movement
+  - Attacks
