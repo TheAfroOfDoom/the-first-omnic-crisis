@@ -1,7 +1,7 @@
 # initialize
 Initializes and runs attacks called by loop when criteria are met.
 
-The attacks that are checked are listed below (in order):
+The attacks that are checked are checked in the following order:
 
   - overheat
   - melee
