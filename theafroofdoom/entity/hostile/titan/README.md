@@ -23,3 +23,8 @@ Inspired by the massive [Titans](https://overwatch.gamepedia.com/Titan) shown in
   
     - sort-rocket-projectile-visual.mcfunction: Runs from *theafroofdoom:entity/hostile/titan/sort.mcfunction* off Titan Rocket Projectile Visuals.
   
+## ai
+Functions that dictate Titan AI.
+
+  -- Vision/Movement
+  -- Attacks
