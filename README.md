@@ -1,6 +1,9 @@
 # the-first-omnic-crisis
 Contains the functions within the "The First Omnic Crisis" adventure map (Minecraft).
 
+## Meta To-Do
+    - Complete README.md's for everything other than the AI folder.
+
 ## Enemies
   
 ### Titan
