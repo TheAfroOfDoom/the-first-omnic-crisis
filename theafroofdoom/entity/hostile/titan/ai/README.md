@@ -1,5 +1,5 @@
 # ai 
-Functions that dictate Titan AI.
+Dictates Titan AI.
 
   - Vision/Movement
   - Attacks
