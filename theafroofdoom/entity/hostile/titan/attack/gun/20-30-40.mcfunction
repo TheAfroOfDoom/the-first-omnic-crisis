@@ -1,4 +1,4 @@
-# Dictates what occurs for TITANS who are GUNNING at clockAttack==20
+# Dictates what occurs for TITANS who are GUNNING at clockAttack==20|30|40
 
 # Summon bullet markers using binary search 
 execute @s[score_rotation=3] ~ ~ ~ function theafroofdoom:entity/hostile/titan/attack/gun/binary_search/summon/0_3 
