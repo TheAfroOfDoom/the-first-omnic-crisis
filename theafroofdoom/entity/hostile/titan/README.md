@@ -34,5 +34,5 @@ Dictates Titan AI.
 Ran off all existing Titans regardless of their tags.
 
   - Death detection
-  - Take-damage detection
+  - Hurt detection
   
