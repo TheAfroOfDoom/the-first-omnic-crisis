@@ -1,9 +1,6 @@
 # ai 
 Dictates Titan AI.
 
-  - Vision/Movement
-  - Attacks
-
 ## attack-cooldown
 Decreases the *attackCooldown* scoreboard objective once per tick, allowing the Titan to attack once it reaches 0.
 
