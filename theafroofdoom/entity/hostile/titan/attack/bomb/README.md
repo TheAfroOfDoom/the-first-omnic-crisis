@@ -18,6 +18,6 @@ Dictates animations, sounds, and mechanics for the Titan Bomb attack.
     
     - loop_animation: Runs at 20Hz off Titan Right Arms who are animating the bomb attack, simulating the animation.
     
-    - loop_bomb: Runs at 20Hz off Bomb Visuals, creating particle effects.
+    - loop_bomb: Runs at 20Hz off Bomb Visuals, displaying particle effects.
     
     - sort: Used when manually forcing a Titan (On or Off) to Bomb Attack, for efficient "@s" searches instead of inefficient "@e" searches.
