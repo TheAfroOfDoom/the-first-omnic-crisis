@@ -4,7 +4,7 @@ Dictates animations, sounds, and mechanics for the Titan Gun attack.
 ### *.mcfunction*s:
     - 20-30-40: Dictate what runs for Titans who are Gunning when their clockAttack score is 20, 30, or 40.
     
-    - bullet_self_turn_off_check: **DEPRECIATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_bullet function at 20Hz.
+    - bullet_self_turn_off_check: **DEPRECATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_bullet function at 20Hz.
     
     - end_of_loop: Runs at the end of a Titan's Gun attack cycle to set tags and scores.
     
