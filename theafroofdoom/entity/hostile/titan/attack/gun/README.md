@@ -17,7 +17,7 @@ Dictates animations, sounds, and mechanics for the Titan Gun attack.
     - sort: Used when manually forcing a Titan (On or Off) to Gun attack, for efficient "@s" searches instead of inefficient "@e" searches.
     
 ## binary_search
-Utilizes a binary search algorithm to efficiently determine which <function> to run depending on the Gunning Titan's rotation score.
+Utilizes a binary search algorithm to efficiently determine which function to run depending on the Gunning Titan's rotation score.
 
 ## summon
 Summon Area Effect Cloud markers depending on the Gunning Titan's rotation score.
