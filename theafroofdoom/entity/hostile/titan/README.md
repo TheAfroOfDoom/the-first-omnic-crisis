@@ -27,12 +27,17 @@ Inspired by the massive [Titans](https://overwatch.gamepedia.com/Titan) shown in
 ## ai
 Dictates Titan AI.
 
-  - Vision/Movement
-  - Attacks
-
 ## always
 Ran off all existing Titans regardless of their tags.
-
-  - Death detection
-  - Hurt detection
   
+## attack
+Dictates animations, sounds, and mechanics for all attacks Titans can perform.
+
+## death
+Dictates animations, sounds, and mechanics for Titan Death sequences.
+
+## move
+Dictates animations, sounds, and mechanics for all movement-abilities Titans can perform.
+
+## turn-on
+Dictates animations and sounds for Titans who are turning on (off Titans have no AI and cannot move nor attack).
