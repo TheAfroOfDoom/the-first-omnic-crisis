@@ -2,9 +2,9 @@
 Dictates animations, sounds, and mechanics for the Titan Bomb attack.
 
 ### *.mcfunction*s:
-    - animation_self_turn_off_check: **DEPRECIATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_animation function at 20Hz.
+    - animation_self_turn_off_check: **DEPRECATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_animation function at 20Hz.
     
-    - bomb_self_turn_off_check: **DEPRECIATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_bomb function at 20Hz.
+    - bomb_self_turn_off_check: **DEPRECATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_bomb function at 20Hz.
     
     - end_of_loop: Runs at the end of a Titan's Bomb attack cycle to set tags, scores, and summon the Bomb Visual.
     
