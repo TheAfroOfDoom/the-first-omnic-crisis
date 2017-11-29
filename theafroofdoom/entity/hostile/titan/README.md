@@ -4,25 +4,25 @@ Functions for the Titan custom enemy.
 Inspired by the massive [Titans](https://overwatch.gamepedia.com/Titan) shown in the *Overwatch* comics.
 
 ### *.mcfunction*s:
-    - sort: Runs from 'theafroofdoom:entity/hostile/sort.mcfunction' off Titans.
+    - sort: Runs off Titans to determine what function(s) they should run.
   
-    - sort-arm-right: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Right Arms.
+    - sort-arm-right: Runs off Titan Right Arms to determine what function(s) they should run.
   
-    - sort-body: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Bodies.
+    - sort-body: Runs off Titan Bodies to determine what function(s) they should run.
   
-    - sort-bomb: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Bombs.
+    - sort-bomb: Runs off Titan Bombs to determine what function(s) they should run.
   
-    - sort-bullet: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Bullets.
+    - sort-bullet: Runs off Titan Bullets to determine what function(s) they should run.
   
-    - sort-eyes: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Eyes.
+    - sort-eyes: Runs off Titan Eyes to determine what function(s) they should run.
   
-    - sort-hitbox: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Hitboxes.
+    - sort-hitbox: Runs off Titan Hitboxes to determine what function(s) they should run.
   
-    - sort-leg: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Legs.
+    - sort-leg: Runs off Titan Legs to determine what function(s) they should run.
   
-    - sort-rocket-projectile-base: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Rocket Projectile Bases.
+    - sort-rocket-projectile-base: Runs off Titan Rocket Projectile Bases to determine what function(s) they should run.
   
-    - sort-rocket-projectile-visual: Runs from 'theafroofdoom:entity/hostile/titan/sort.mcfunction' off Titan Rocket Projectile Visuals.
+    - sort-rocket-projectile-visual: Runs off Titan Rocket Projectile Visuals to determine what function(s) they should run.
   
 ## ai
 Dictates Titan AI.
