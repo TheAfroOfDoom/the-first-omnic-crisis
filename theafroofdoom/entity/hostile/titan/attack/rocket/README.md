@@ -6,7 +6,7 @@ Dictates animations, sounds, and mechanics for the Titan Rocket attack.
     
     - detonate_collision: Runs if there is a non-air block 1.7 blocks above the Rocket Projectile Visual (Zombie), simulating a crash-explosion (as opposed to a detonation).
     
-    - end_of_loop: Runs at the end of a Titan's Gun attack cycle to set tags and scores.
+    - end_of_loop: Runs at the end of a Titan's Rocket attack cycle to set tags and scores.
     
     - loop: Runs at 20Hz off Titans who are Rocketing, creating the body's animation.
     
