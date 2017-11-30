@@ -5,6 +5,8 @@ Files for initialize's binary search algorithm.
     - 0_1: Splits 0 and 1 rotations and redirects Titans to their corresponding initialize function.
 
     - 0_3: Splits 0-1 and 2-3 rotations and continues down the BST.
+    
+    - 0_7: Splits 0-3 and 4-7 rotations and continues down the BST.
 
     - 2_3: Splits 2 and 3 rotations and redirects Titans to their corresponding initialize function.
 
