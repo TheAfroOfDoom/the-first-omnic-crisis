@@ -34,4 +34,4 @@ Utilizes a binary search algorithm to efficiently determine which to function to
 Contains stages of the entire crash function, ran in the order 1-2-3 depending at which state the Rocket Projectile Visual is at in crashing.
     
 ## initialize
-Initializes Titans who want to Rocket based on their rotation score.
+Initializes scores, tags, and plays the sound for the Titan Rocket attack based on its rotation score.
