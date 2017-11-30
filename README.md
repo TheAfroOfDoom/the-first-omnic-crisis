@@ -2,8 +2,7 @@
 Contains the functions within the "The First Omnic Crisis" adventure map (Minecraft).
 
 ## To-Do
-    - Complete README.md's for everything other than the AI folder.
-        - Attacks up to and including Overheat folder completed.
+    - Complete README.md's for the move and turn-on folders.
 
 ## Enemies
   
