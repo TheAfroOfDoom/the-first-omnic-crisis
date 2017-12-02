@@ -36,7 +36,7 @@ Ran off all existing Titans regardless of their tags.
 Dictates animations, sounds, and mechanics for all attacks Titans can perform.
 
 ## death
-Dictates animations, sounds, and mechanics for (Titan Death)[https://youtu.be/y-IKluIf1MI] sequences.
+Dictates animations, sounds, and mechanics for [Titan Death](https://youtu.be/y-IKluIf1MI) sequences.
 
 ## move
 Dictates animations, sounds, and mechanics for all movement-abilities Titans can perform.
