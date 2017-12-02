@@ -1,5 +1,5 @@
 # stomp
-Dictates animations, sounds, and mechanics for the Titan Stomp attack.
+Dictates animations, sounds, and mechanics for the [Titan Stomp](https://youtu.be/HPpaXGDM90A) attack.
 
 ### *.mcfunction*s:
     - end_of_loop: Runs at the end of a Titan's Stomp attack cycle to set tags, scores, deal damage, and display particles.
