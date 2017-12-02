@@ -1,5 +1,5 @@
 # gun
-Dictates animations, sounds, and mechanics for the Titan Gun attack.
+Dictates animations, sounds, and mechanics for the [Titan Gun](https://youtu.be/ojurnP1LjBs) attack.
 
 ### *.mcfunction*s:
     - 20-30-40: Dictate what runs for Titans who are Gunning when their clockAttack score is 20, 30, or 40.
