@@ -1,5 +1,7 @@
 # initialize
 Initializes scores, tags, and plays the sound for the Titan Rotate Counter-Clockwise ability based on its rotation score.
+
+### *.mcfunction*s:
     - 0: Initializes scores, tags, and plays the sound for the Titans who want to Rotate Counter-Clockwise with a rotation score of 0.
     
     - 1: Initializes scores, tags, and plays the sound for the Titans who want to Rotate Counter-Clockwise with a rotation score of 1.
