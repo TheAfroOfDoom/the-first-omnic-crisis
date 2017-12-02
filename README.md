@@ -6,7 +6,7 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
 
 ## Enemies
   
-### Titan
+### [Titan](https://github.com/TheAfroOfDoom/the-first-omnic-crisis/tree/master/theafroofdoom/entity/hostile/titan)
     - Fully modelled
     - Fully functional, not satisfied with how it feels to fight though
     - Sounds are completed
@@ -27,4 +27,4 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
     - 10% complete
     
 ### Sydney, Australia
-    - 30% complete
+    - 20% complete
