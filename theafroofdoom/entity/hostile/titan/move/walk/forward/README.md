@@ -11,7 +11,7 @@ Utilizes a binary search algorithm to efficiently determine which to function to
 Similar to "end_of_loop" mcfunctions, dicates what the Titan does on its final step forward depending on its rotation score.
 
 ## first_step
-Dictates what the Titan does during its first step forward.
+Dictates animations, sounds, and mechanics for the Titan Walk Forward movement ability during its first step forward.
 
 ## step
-Dictates what the Titan does during its steps after the first and before the final one.
+Dictates animations, sounds, and mechanics for the Titan Walk Forward movement ability during its steps after the first and before the final one.
