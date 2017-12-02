@@ -8,7 +8,7 @@ Dictates animations, sounds, and mechanics for the Titan Rotate Clockwise moveme
     
     - kill_markers: Kills rotational dynamic markers (Boats/Area Effect Clouds) when they are no longer needed.
     
-    - loop: Runs at 20Hz off Titans who are Rotating Clockwise, calculating rotational dynamics and creating the body's animation.
+    - loop: Runs at 20Hz off Titans who are Rotating Clockwise, calculating rotational dynamics and creating the animation.
     
     - sort: Used when manually forcing a Titan (On or Off) to Rotate Clockwise, for efficient "@s" searches instead of inefficient "@e" searches.
     
