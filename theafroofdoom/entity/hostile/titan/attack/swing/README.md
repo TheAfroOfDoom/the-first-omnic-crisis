@@ -1,6 +1,8 @@
 # swing
 Dictates animations, sounds, and mechanics for the [Titan Swing](https://youtu.be/CvGWfPPShxw) attack.
 
+![](https://media.giphy.com/media/3o6nURG5ov3NWRsIXm/giphy.gif)
+
 ### *.mcfunction*s:
     - c_initialize: Initializes scores, tags, plays the sound, and summons boats for rotational dynamics for the Titan Swing (clockwise) attack.
     
