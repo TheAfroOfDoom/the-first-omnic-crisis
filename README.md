@@ -10,6 +10,7 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
     - Fully modelled
     - Fully functional, not satisfied with how it feels to fight though
     - Sounds are completed
+![Alt Text](https://i.imgur.com/V95dGzU.png)
     
 ### Bastion
     - Fully modelled
