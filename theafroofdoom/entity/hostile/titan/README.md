@@ -35,6 +35,8 @@ Ran off all existing Titans regardless of their tags.
 ## attack
 Dictates animations, sounds, and mechanics for all attacks Titans can perform.
 
+![](https://media.giphy.com/media/26FfgCfkT56R3LkiY/giphy.gif)
+
 ## death
 Dictates animations, sounds, and mechanics for [Titan Death](https://youtu.be/y-IKluIf1MI) sequences.
 
