@@ -41,5 +41,7 @@ Dictates animations, sounds, and mechanics for [Titan Death](https://youtu.be/y-
 ## move
 Dictates animations, sounds, and mechanics for all movement-abilities Titans can perform.
 
+![](https://media.giphy.com/media/26FfhLJnsv2rLYiRO/giphy.gif)
+
 ## turn-on
 Dictates animations and sounds for Titans who are turning on (off Titans have no AI and cannot move nor attack).
