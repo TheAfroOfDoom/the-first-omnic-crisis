@@ -1,5 +1,5 @@
 # stomp
-Dictates animations, sounds, and mechanics for the [Titan Stomp](https://youtu.be/HPpaXGDM90A) attack.
+Dictates animations, sounds, and mechanics for the [Titan Stomp](https://www.youtube.com/watch?v=s0IU_tPTEZc) attack.
 
 ![](https://media.giphy.com/media/26Ff86aEGdd1b4xCo/giphy.gif)
 
