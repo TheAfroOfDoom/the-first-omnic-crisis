@@ -5,7 +5,7 @@ Inspired by the massive [Titans](https://overwatch.gamepedia.com/Titan) shown in
 
 Minecraft                  |  Comics
 :-------------------------:|:-------------------------:
-![](https://i.imgur.com/V95dGzU.png)  |  ![](https://overwatch.gamepedia.com/media/overwatch.gamepedia.com/d/db/Titan.jpg?version=fe2aebb9c89d4dfa106c01b6a6968eb2)
+![](https://i.imgur.com/V95dGzU.png)  |  ![](https://comic.playoverwatch.com/issues/overwatch/6/de-de/pages/7/7-1.jpg)
 
 ### *.mcfunction*s:
     - sort: Runs off Titans to determine what function(s) they should run.
