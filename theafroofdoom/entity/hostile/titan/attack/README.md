@@ -9,6 +9,8 @@ Dictates animations, sounds, and mechanics for the [Titan Bomb](https://youtu.be
 ## gun
 Dictates animations, sounds, and mechanics for the [Titan Gun](https://youtu.be/ojurnP1LjBs) attack.
 
+![](https://media.giphy.com/media/xUNd9Nz6SttINs9ILm/giphy.gif)
+
 ## overheat
 Dictates animations, sounds, and mechanics for when a [Titan overheats](https://youtu.be/zMrFc65cWEM).
 
