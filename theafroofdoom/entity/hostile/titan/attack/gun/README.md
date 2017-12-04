@@ -1,5 +1,5 @@
 # gun
-Dictates animations, sounds, and mechanics for the [Titan Gun](https://youtu.be/ojurnP1LjBs) attack.
+Dictates animations, sounds, and mechanics for the [Titan Gun](https://www.youtube.com/watch?v=oHlpgGm60Vs) attack.
 
 ![](https://media.giphy.com/media/xUNd9Nz6SttINs9ILm/giphy.gif)
 
