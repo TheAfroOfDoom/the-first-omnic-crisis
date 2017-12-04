@@ -1,6 +1,8 @@
 # bomb
 Dictates animations, sounds, and mechanics for the [Titan Bomb](https://youtu.be/w__ZYTk8YhQ) attack.
 
+![](https://media.giphy.com/media/3ohjV0bzhU91Bj6L8Q/giphy.gif)
+
 ### *.mcfunction*s:
     - animation_self_turn_off_check: **DEPRECATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop_animation function at 20Hz.
     
