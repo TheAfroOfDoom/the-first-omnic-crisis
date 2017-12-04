@@ -1,5 +1,5 @@
 # overheat
-Dictates animations, sounds, and mechanics for when a [Titan overheats](https://youtu.be/zMrFc65cWEM).
+Dictates animations, sounds, and mechanics for when a [Titan Overheats](https://www.youtube.com/watch?v=A29wvsLgCXA).
 
 ![](https://media.giphy.com/media/d47Jd4x9fjQMr38s/giphy.gif)
 
