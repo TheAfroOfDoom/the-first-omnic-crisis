@@ -1,6 +1,8 @@
 # rocket
 Dictates animations, sounds, and mechanics for the [Titan Rocket](https://youtu.be/o1RXykXP7bQ) attack.
 
+![](https://media.giphy.com/media/26FfeLKWRCSFEoUco/giphy.gif)
+
 ### *.mcfunction*s:
     - detonate: Dictates what happens when a Titan Rocket detonates, killing itself and its visual (Vex + Zombie) and summoning a creeper to simulate an explosion.
     
