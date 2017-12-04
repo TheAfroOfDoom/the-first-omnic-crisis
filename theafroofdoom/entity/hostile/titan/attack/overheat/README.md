@@ -1,6 +1,8 @@
 # overheat
 Dictates animations, sounds, and mechanics for when a [Titan overheats](https://youtu.be/zMrFc65cWEM).
 
+![](https://media.giphy.com/media/d47Jd4x9fjQMr38s/giphy.gif)
+
 ### *.mcfunction*s:
     - end_of_loop: Runs at the end of a Titan's Overheat attack cycle to set tags and scores.
     
