@@ -1,5 +1,5 @@
 # rocket
-Dictates animations, sounds, and mechanics for the [Titan Rocket](https://youtu.be/o1RXykXP7bQ) attack.
+Dictates animations, sounds, and mechanics for the [Titan Rocket](https://www.youtube.com/watch?v=e6Rv5GFLaso) attack.
 
 ![](https://media.giphy.com/media/26FfeLKWRCSFEoUco/giphy.gif)
 
