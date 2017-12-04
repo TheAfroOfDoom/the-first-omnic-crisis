@@ -10,7 +10,7 @@ Dictates animations, sounds, and mechanics for [Titan Death](https://youtu.be/y-
     
     - sort: Used when manually forcing a Titan (On or Off) to Die, for efficient "@s" searches instead of inefficient "@e" searches.
     
-    - turn_of_loop: **DEPRECATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop function at 20Hz.
+    - turn_off_loop: **DEPRECATED AS OF MCVERSION 1.12**: Turns off repeating command block at spawn chunks that would otherwise run the loop function at 20Hz.
     
 ## animation
 Runs the body animation depending on the Dying Titan's rotation score.
