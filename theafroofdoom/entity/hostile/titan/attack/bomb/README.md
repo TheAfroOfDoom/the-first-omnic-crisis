@@ -1,5 +1,5 @@
 # bomb
-Dictates animations, sounds, and mechanics for the [Titan Bomb](https://youtu.be/w__ZYTk8YhQ) attack.
+Dictates animations, sounds, and mechanics for the [Titan Bomb](https://www.youtube.com/watch?v=ZLTJYDKLT2U) attack.
 
 ![](https://media.giphy.com/media/3ohjV0bzhU91Bj6L8Q/giphy.gif)
 
