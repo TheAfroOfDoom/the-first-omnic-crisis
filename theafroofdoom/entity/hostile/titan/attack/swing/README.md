@@ -1,5 +1,5 @@
 # swing
-Dictates animations, sounds, and mechanics for the [Titan Swing](https://youtu.be/CvGWfPPShxw) attack.
+Dictates animations, sounds, and mechanics for the [Titan Swing](https://www.youtube.com/watch?v=gg08Y6Rl54k) attack.
 
 ![](https://media.giphy.com/media/26FfgCfkT56R3LkiY/giphy.gif)
 
