@@ -1,6 +1,8 @@
 # death
 Dictates animations, sounds, and mechanics for [Titan Death](https://youtu.be/y-IKluIf1MI) sequences.
 
+![](https://media.giphy.com/media/xUNd9LNDcCqNcvF9D2/giphy.gif)
+
 ### *.mcfunction*s:
     - end_of_loop: Runs at the end of a Titan's Death cycle to set tags and simulate a final explosion.
     
