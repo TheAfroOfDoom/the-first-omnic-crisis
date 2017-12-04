@@ -4,6 +4,8 @@ Dictates animations, sounds, and mechanics for all attacks Titans can perform.
 ## bomb
 Dictates animations, sounds, and mechanics for the [Titan Bomb](https://youtu.be/w__ZYTk8YhQ) attack.
 
+![](https://media.giphy.com/media/3ohjV0bzhU91Bj6L8Q/giphy.gif)
+
 ## gun
 Dictates animations, sounds, and mechanics for the [Titan Gun](https://youtu.be/ojurnP1LjBs) attack.
 
