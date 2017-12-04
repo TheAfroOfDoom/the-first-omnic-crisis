@@ -28,4 +28,5 @@ Dictates animations, sounds, and mechanics for the [Titan Stomp](https://youtu.b
 
 ## swing
 Dictates animations, sounds, and mechanics for the [Titan Swing](https://youtu.be/CvGWfPPShxw) attack.
+
 ![](https://media.giphy.com/media/26FfgCfkT56R3LkiY/giphy.gif)
