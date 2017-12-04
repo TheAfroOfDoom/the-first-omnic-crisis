@@ -40,7 +40,7 @@ Dictates animations, sounds, and mechanics for all attacks Titans can perform.
 ![](https://media.giphy.com/media/26FfgCfkT56R3LkiY/giphy.gif)
 
 ## death
-Dictates animations, sounds, and mechanics for [Titan Death](https://youtu.be/y-IKluIf1MI) sequences.
+Dictates animations, sounds, and mechanics for [Titan Death](https://www.youtube.com/watch?v=0MTjoprkl04) sequences.
 
 ![](https://media.giphy.com/media/xUNd9LNDcCqNcvF9D2/giphy.gif)
 
