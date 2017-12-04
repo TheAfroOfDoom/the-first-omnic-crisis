@@ -7,10 +7,10 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
 ## Enemies
   
 ### [Titan](https://github.com/TheAfroOfDoom/the-first-omnic-crisis/tree/master/theafroofdoom/entity/hostile/titan)
+![](https://media.giphy.com/media/26FfhLJnsv2rLYiRO/giphy.gif)
     - Fully modelled
     - Fully functional, not satisfied with how it feels to fight though
     - Sounds are completed
-![](https://media.giphy.com/media/26FfhLJnsv2rLYiRO/giphy.gif)
     
 ### Bastion
     - Fully modelled
