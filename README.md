@@ -34,6 +34,4 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
 ### Sydney, Australia
     - 20% complete
 
-## Plot
-
-    - [Google Doc](https://docs.google.com/document/d/1oTjelL1pCDfZlIHMA2tbMDkZJhAYMS5HfJQXW0HYYsk/edit?usp=sharing)
+## [Plot](https://docs.google.com/document/d/1oTjelL1pCDfZlIHMA2tbMDkZJhAYMS5HfJQXW0HYYsk/edit?usp=sharing)
