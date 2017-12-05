@@ -2,7 +2,10 @@
 Contains the functions within the "The First Omnic Crisis" adventure map (Minecraft).
 
 ## To-Do
-    - Complete README.md's for the move and turn-on folders.
+
+    - Create "Arachnid" enemy, inspired by Wolfenstein: The New Order's [London Monitor](http://wolfenstein.wikia.com/wiki/London_Monitor) boss.
+    - Finish Detroit
+    - Basically like all of the plot
 
 ## Enemies
   
@@ -30,3 +33,7 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
     
 ### Sydney, Australia
     - 20% complete
+
+## Plot
+
+    - [Google Doc](https://docs.google.com/document/d/1oTjelL1pCDfZlIHMA2tbMDkZJhAYMS5HfJQXW0HYYsk/edit?usp=sharing)
