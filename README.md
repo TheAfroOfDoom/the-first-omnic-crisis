@@ -3,9 +3,9 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
 
 ## To-Do
 
-    - Create "Arachnid" enemy, inspired by Wolfenstein: The New Order's [London Monitor](http://wolfenstein.wikia.com/wiki/London_Monitor) boss.
-    - Finish Detroit
-    - Basically like all of the plot
+  - Create "Arachnid" enemy, inspired by Wolfenstein: The New Order's [London Monitor](http://wolfenstein.wikia.com/wiki/London_Monitor) boss.
+  - Finish Detroit
+  - Basically like all of the plot
 
 ## Enemies
   
