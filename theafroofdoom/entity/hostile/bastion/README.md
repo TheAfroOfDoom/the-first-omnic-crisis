@@ -11,7 +11,7 @@ Retextured  |   Default
 :----------:|:-----------|
 ![](https://i.imgur.com/xloSy9W.png)  |   ![](https://i.imgur.com/6GWBzYT.png)
 
-**I did fully model an actual Bastion, but due to technical limitations with the game (not being able to set a body model, only a head model) I downgraded it to the skeleton form.** | ![](https://i.imgur.com/fu44t0R.png)
+I did fully model an actual Bastion, but due to technical limitations with the game (not being able to set a body model, only a head model) I downgraded it to the skeleton form. | ![](https://i.imgur.com/fu44t0R.png)
 :---:|:---:
 
 ### *.mcfunction*s:
