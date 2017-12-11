@@ -1,4 +1,4 @@
-# Dictate BASTION DROPPOD SUMMON MARKER-BASE END OF LOOP for marker-bases with score count==0 Module
+# Dictate BASTION DROPPOD SUMMON MARKER-BASE END OF LOOP for marker-bases with score count_min=1 Module
 
 # Remove Tags
 scoreboard players tag @r[type=area_effect_cloud,tag=bastionDroppodMarkerIsNotSummoning,r=10] add bastionDroppodMarkerWantsToSummon
