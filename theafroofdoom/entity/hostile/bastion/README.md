@@ -9,7 +9,7 @@ The Minecraft version is heavily under-modelled because of technicalities with t
 
 Retextured  |   Default
 :----------:|:-----------|
-![https://i.imgur.com/xloSy9W.png]  |   ![](https://i.imgur.com/6GWBzYT.png)
+![](https://i.imgur.com/xloSy9W.png)  |   ![](https://i.imgur.com/6GWBzYT.png)
 
 ### *.mcfunction*s:
     - sort: Runs off Bastions and related entities to determine what function(s) they should run.
