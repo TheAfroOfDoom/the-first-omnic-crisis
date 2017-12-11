@@ -1,7 +1,7 @@
 # droppod
 Functions for the Bastion Droppod.
 
-![](https://media.giphy.com/media/l3mZg2E5ftFj9bWmI/giphy.gif)
+![](https://i.imgur.com/OY4xKwV.png)
 
 ### *.mcfunction*s:
     - sort: Runs off Bastion Droppods and Bastion Droppod Marker Bases to determine what function(s) they should run.
