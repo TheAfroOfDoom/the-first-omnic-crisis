@@ -18,6 +18,8 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
     - Sounds are completed
     
 ### [Bastion](https://github.com/TheAfroOfDoom/the-first-omnic-crisis/tree/master/theafroofdoom/entity/hostile/bastion)
+![](https://media.giphy.com/media/l3mZg2E5ftFj9bWmI/giphy.gif)
+
     - Fully modelled
     - Drop-pod sequence animation complete, needs sounds/damage
       
