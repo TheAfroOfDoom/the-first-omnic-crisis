@@ -11,3 +11,5 @@ Debug functions used during development to confirm certain aspects of Minecraft'
 
 ## entity
 Functions for any custom entities.
+
+![](https://media.giphy.com/media/26FfhLJnsv2rLYiRO/giphy.gif)
