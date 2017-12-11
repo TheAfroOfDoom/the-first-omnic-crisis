@@ -17,7 +17,7 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
     - Fully functional, not satisfied with how it feels to fight though
     - Sounds are completed
     
-### [Bastion](https://github.com/TheAfroOfDoom/the-first-omnic-crisis/tree/master/theafroofdoom/entity/hostile/titan)
+### [Bastion](https://github.com/TheAfroOfDoom/the-first-omnic-crisis/tree/master/theafroofdoom/entity/hostile/bastion)
     - Fully modelled
     - Drop-pod sequence animation complete, needs sounds/damage
       
