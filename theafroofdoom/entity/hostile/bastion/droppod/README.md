@@ -5,7 +5,7 @@ A funny aside - I had tweeted [@PlayOverwatch](https://twitter.com/TheAfroOfDoom
 
 Minecraft   |   Overwatch
 :-------------:|:----------:
-![](https://i.imgur.com/OY4xKwV.png) | ![](https://i.imgur.com/T5DYIVH.png) | (https://cdna.artstation.com/p/assets/images/images/005/556/462/large/hong-chan-lim-droppod-screenshot.jpg?1491937270)
+![](https://i.imgur.com/OY4xKwV.png) ![](https://i.imgur.com/T5DYIVH.png) | ![](https://cdna.artstation.com/p/assets/images/images/005/556/462/large/hong-chan-lim-droppod-screenshot.jpg?1491937270)
 
 ### *.mcfunction*s:
     - sort: Runs off Bastion Droppods and Bastion Droppod Marker Bases to determine what function(s) they should run.
