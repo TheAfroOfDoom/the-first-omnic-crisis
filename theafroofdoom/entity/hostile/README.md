@@ -7,7 +7,9 @@ Functions used for custom hostile entities (enemies).
 ## titan
 Functions for the Titan.
 
+![](https://media.giphy.com/media/26FfhLJnsv2rLYiRO/giphy.gif)
+
 ## bastion
 Functions for the Bastion and related entities.
 
-![](https://camo.githubusercontent.com/396552d7ec0090ac1d347c93600f9d33d33d05fd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c336d5a673245356674466a3962576d492f67697068792e676966)
+![](https://media.giphy.com/media/l3mZg2E5ftFj9bWmI/giphy.gif)
