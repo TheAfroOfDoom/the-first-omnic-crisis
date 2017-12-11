@@ -6,3 +6,6 @@ Functions used for custom hostile entities (enemies).
 
 ## titan
 Functions for the Titan.
+
+## bastion
+Functions for the Bastion and related entities.
