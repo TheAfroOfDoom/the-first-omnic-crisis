@@ -6,7 +6,6 @@ A funny aside - I had tweeted [@PlayOverwatch](https://twitter.com/TheAfroOfDoom
 Minecraft   |   Overwatch
 :-------------:|:----------:
 ![](https://i.imgur.com/OY4xKwV.png) | ![](https://cdna.artstation.com/p/assets/images/images/005/556/462/large/hong-chan-lim-droppod-screenshot.jpg?1491937270)
-:-------------:|:----------:
 ![](https://i.imgur.com/T5DYIVH.png) | ![](http://www.gameinformer.com/cfs-filesystemfile.ashx/__key/CommunityServer-Components-SiteFiles/imagefeed-featured-blizzard2017-overwatch-uprising/Uprising2_2D00_610.jpg)
 
 ### *.mcfunction*s:
