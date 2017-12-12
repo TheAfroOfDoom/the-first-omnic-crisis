@@ -6,11 +6,16 @@ Contains the functions within the "The First Omnic Crisis" adventure map (Minecr
   - Create "Arachnid" enemy, inspired by Wolfenstein: The New Order's [London Monitor](http://wolfenstein.wikia.com/wiki/London_Monitor) boss.
     - Larger than Titan?
     - Boss?
+    
   - Create "Spider Tank" enemy, inspired by this established [Omnic](https://i.imgur.com/z81Rlzp.jpg).
     - Finish model, lower half is [done](https://i.imgur.com/pk4hfXi.png)
     - Stationary (or maybe a tiny bit of super slow movement), powerful hitscan/projectile bullets
       - Way easier with 17w50a's `^ ^ ^` local coordinates!!!
-  - Finish Detroit
+      
+  - Finish locations
+    - Import Detroit
+    - Finish locations listed below
+    
   - Like all of the plot
 
 ## Enemies
